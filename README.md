@@ -1,4 +1,4 @@
-# 03-Password-Generator
+# Password-Generator
 
 ## Link to Website
 https://john-paul-grace.github.io/03-Password-Generator/
