@@ -1,7 +1,7 @@
 # Password-Generator
 
 ## Link to Website
-https://john-paul-grace.github.io/03-Password-Generator/
+https://john-paul-grace.github.io/Password-Generator/
 
 ## Description
 
